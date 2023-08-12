@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "db": "vite-node --script ./rake"
+  },
+  "dependencies": {
+    "@tsconfig/node16": "~1.0.4",
+    "orchid-orm": "~1.16.1",
+    "rake-db": "~2.10.24",
+    "vite-node": "~0.34.1"
+  }
+}
